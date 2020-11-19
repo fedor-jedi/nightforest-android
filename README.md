@@ -5,4 +5,4 @@
 Modern dark and soft theme for telegram android
 ```
 ##
-[Apply](https://t.me/addtheme/nightforest)
+[Link](https://t.me/addtheme/nightforest)
