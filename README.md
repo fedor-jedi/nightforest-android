@@ -4,5 +4,3 @@
 ```
 Modern dark and soft theme for telegram android
 ```
-##
-[Link](https://t.me/addtheme/nightforest)
